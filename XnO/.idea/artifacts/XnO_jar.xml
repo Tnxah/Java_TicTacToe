@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="XnO:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XnO_jar</output-path>
+    <root id="archive" name="XnO.jar">
+      <element id="module-output" name="XnO" />
+    </root>
+  </artifact>
+</component>
